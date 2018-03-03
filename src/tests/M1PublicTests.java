@@ -13,7 +13,7 @@ import java.lang.reflect.Modifier;
 import java.util.ArrayList;
 
 import org.junit.Test;
-
+//git test
 @SuppressWarnings({ "rawtypes", "unchecked" })
 public class M1PublicTests {
 
